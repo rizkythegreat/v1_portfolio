@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Garuda Kasir",
+        "link": "https://garudakasir.co.id/",
+        "image": "garudakasir.jpeg",
+        "description": "Garuda Kasir is a comprehensive point-of-sale (POS) system designed to streamline your business operations. Our platform offers a range of features to manage sales, inventory, and customer relationships efficiently.",
+        "techStack": [
+            "Next JS",
+            "Prisma",
+            "Tailwind CSS",
+            "MySQL"
+        ],
+        "selected": true,
+        "year": "2021",
+        "madeAt": "Freelance Project",
+        "github": "",
+        "shortDesc": "Garuda Kasir is a comprehensive point-of-sale (POS) system designed to streamline your business operations."
+    },
+    {
+        "id": 2,
+        "title": "Masonry Image Gallery",
+        "link": "https://masonry-image-gallery-psi.vercel.app/",
+        "image": "masonryimage.png",
+        "description": "Masonry Image is a dynamic and visually appealing image gallery designed to showcase your photos in a stylish and organized layout. Using the masonry grid system, our website arranges images of varying sizes seamlessly, creating a stunning visual experience.",
+        "techStack": [
+            "React JS",
+            "Tailwind CSS"
+        ],
+        "selected": true,
+        "year": "2023",
+        "madeAt": "Freelance Project",
+        "shortDesc": "Masonry Image is a dynamic and visually appealing image gallery designed to showcase your photos in a stylish and organized layout."
+    }
+]

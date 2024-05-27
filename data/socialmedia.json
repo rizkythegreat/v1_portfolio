@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "LinkedIn",
+        "icon": "fa-brands fa-linkedin-in",
+        "url": "https://www.linkedin.com/in/rizky-rahman-salam-357b98226/"
+    },
+    {
+        "id": 2,
+        "name": "GitHub",
+        "icon": "fa-brands fa-github",
+        "url": "https://github.com/rizkythegreat"
+    },
+    {
+        "id": 3,
+        "name": "Mail",
+        "icon": "fa-regular fa-envelope",
+        "url": "mailto:clashikik@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Instagram",
+        "icon": "fa-brands fa-instagram",
+        "url": "https://www.instagram.com/rizky_rahmansalam/"
+    }
+]
