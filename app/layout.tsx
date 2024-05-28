@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import SpotLight from "./components/Spotlight";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,6 +28,8 @@ export default function RootLayout({
           <SpotLight />
           {children}
         </div>
+        <SpeedInsights />
+        <Analytics />
 
         <Script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/js/all.min.js" />
       </body>
