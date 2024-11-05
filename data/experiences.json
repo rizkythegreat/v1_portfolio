@@ -28,5 +28,18 @@
             "Prisma",
             "MySQL"
         ]
+    },
+    {
+        "id": 3,
+        "title": "Assist.id",
+        "position": "Software Engineer",
+        "start": "JUL 2024",
+        "end": "Present",
+        "description": "Focused on creating and enhancing user-facing features to ensure a seamless and engaging experience on the Assist.id platform. Leveraged skills in frontend technologies to design responsive interfaces and improve visual elements. Collaborated closely with the design and backend teams to deliver features that align with project goals and user needs. Key accomplishments include optimizing front-end performance, implementing best practices for responsive design, and maintaining code quality standards to enhance user engagement and accessibility.",
+        "skills": [
+            "React Js",
+            "Material UI",
+            "Vanilla CSS"
+        ]
     }
 ]
