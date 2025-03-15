@@ -29,7 +29,22 @@
         ],
         "selected": true,
         "year": "2023",
-        "madeAt": "Freelance Project",
+        "madeAt": "Portfolio Project",
         "shortDesc": "Masonry Image is a dynamic and visually appealing image gallery designed to showcase your photos in a stylish and organized layout."
+    },
+    {
+        "id": 3,
+        "title": "Minimalist E-Commerce",
+        "link": "https://minimalist-ecommerce-eky-v1.netlify.app/",
+        "image": "minimal-ecommerce.png",
+        "description": "Minimalist E-Commerce is a sleek and modern online store designed with a clean user interface and smooth shopping experience. Built with performance in mind, it features a well-structured product display, seamless navigation, and responsive design to ensure accessibility across all devices. This project showcases my skills in front-end development, UI/UX design, and integrating e-commerce functionalities.",
+        "techStack": [
+            "React TS",
+            "Tailwind CSS"
+        ],
+        "selected": true,
+        "year": "2025",
+        "madeAt": "Portfolio Project",
+        "shortDesc": "Minimalist E-Commerce is a sleek and modern online store designed with a clean user interface and smooth shopping experience."
     }
 ]
