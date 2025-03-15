@@ -46,5 +46,20 @@
         "year": "2025",
         "madeAt": "Portfolio Project",
         "shortDesc": "Minimalist E-Commerce is a sleek and modern online store designed with a clean user interface and smooth shopping experience."
+    },
+    {
+        "id": 4,
+        "title": "Landing Page PPPM Miftahul Huda",
+        "link": "https://ppm-mh.vercel.app/",
+        "image": "website-ppm.png",
+        "description": "This website is a modern and responsive platform designed for PPPM Miftahul Huda, an educational institution dedicated to nurturing students with both academic and religious knowledge. Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience.",
+        "techStack": [
+            "Next JS",
+            "Tailwind CSS"
+        ],
+        "selected": true,
+        "year": "2025",
+        "madeAt": "Portfolio Project",
+        "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
     }
 ]
