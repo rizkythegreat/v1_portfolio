@@ -61,5 +61,21 @@
         "year": "2025",
         "madeAt": "Portfolio Project",
         "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
+    },
+    {
+        "id": 5,
+        "title": "Simu Saham",
+        "link": "https://simu-saham.vercel.app/",
+        "image": "simu-saham.png",
+        "description": "Simu Saham is a web-based application designed to help users learn and simulate stock investing in an interactive and risk-free environment. These features make Simu Saham an ideal educational tool for beginners who want to understand how the stock market works before diving into real investments.",
+        "techStack": [
+            "React JS",
+            "Typescript",
+            "Tailwind CSS"
+        ],
+        "selected": true,
+        "year": "2025",
+        "madeAt": "Portfolio Project",
+        "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
     }
 ]
