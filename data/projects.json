@@ -77,5 +77,21 @@
         "year": "2025",
         "madeAt": "Portfolio Project",
         "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
+    },
+    {
+        "id": 6,
+        "title": "Coffee Shop Angular",
+        "link": "https://coffeeshop1-angular.netlify.app/",
+        "image": "cs-angular-4.png",
+        "description": "A responsive and modern landing page for a vintage-themed coffee shop, built with Angular. It features smooth navigation, mobile menu support, scroll animations, and sections like Home, About, Menu, Gallery, and Contact. Deployed on Netlify.",
+        "techStack": [
+            "Angular",
+            "Typescript",
+            "CSS"
+        ],
+        "selected": true,
+        "year": "2025",
+        "madeAt": "Portfolio Project",
+        "shortDesc": "A responsive and modern landing page for a vintage-themed coffee shop, built with Angular"
     }
 ]
