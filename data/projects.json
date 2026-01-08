@@ -50,11 +50,11 @@
     {
         "id": 4,
         "title": "Landing Page PPPM Miftahul Huda",
-        "link": "https://ppm-mh.vercel.app/",
+        "link": "https://new-pppm-miftahul-huda.pages.dev/",
         "image": "website-ppm.png",
         "description": "This website is a modern and responsive platform designed for PPPM Miftahul Huda, an educational institution dedicated to nurturing students with both academic and religious knowledge. Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience.",
         "techStack": [
-            "Next JS",
+            "React Vite",
             "Tailwind CSS"
         ],
         "selected": true,
