@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Rizky Rahman Salam | Frontend Developer | ReactJS | NextJS",
   description: "Rizky Rahman Salam is a Frontend Web Developer from Pekanbaru, Indonesia. I specialize in bridging the idea to exceptional and accessible digital experiences.",
   keywords: "Rizky Rahman Salam, Frontend Web Developer, ReactJS, NextJS, Pekanbaru, Indonesia",
+  icons: {
+    icon: "/logo.png"
+  }
 };
 
 export default function RootLayout({
