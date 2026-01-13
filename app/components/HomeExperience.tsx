@@ -41,7 +41,7 @@ const HomeExperience = async () => {
                     <a
                         className="inline-flex items-center leading-tight font-semibold text-slate-200 group"
                         aria-label="View Full Curriculum Vitae"
-                        href="/cv_rizky_rahman_salam.pdf"
+                        href="/Resume-Frontend-Rizky-Rahman-Salam.pdf"
                         rel="noreferrer"
                         target="_blank"
                         download

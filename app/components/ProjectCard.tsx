@@ -24,7 +24,7 @@ const ProjectCard = ({
             <div className="z-10 sm:order-2 sm:col-span-6">
                 <h3>
                     <a
-                        className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300  group/link text-base"
+                        className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-[#57d9d4] focus-visible:text-[#57d9d4]  group/link text-base"
                         href={link ?? "#!"}
                         target={link ? "_blank" : "_self"}
                         rel="noreferrer"
