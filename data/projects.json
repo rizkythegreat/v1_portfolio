@@ -1,97 +1,87 @@
 [
-    {
-        "id": 1,
-        "title": "Garuda Kasir",
-        "link": "https://garudakasir.co.id/",
-        "image": "garudakasir.jpeg",
-        "description": "Garuda Kasir is a comprehensive point-of-sale (POS) system designed to streamline your business operations. Our platform offers a range of features to manage sales, inventory, and customer relationships efficiently.",
-        "techStack": [
-            "Next JS",
-            "Prisma",
-            "Tailwind CSS",
-            "MySQL"
-        ],
-        "selected": true,
-        "year": "2021",
-        "madeAt": "Freelance Project",
-        "github": "",
-        "shortDesc": "Garuda Kasir is a comprehensive point-of-sale (POS) system designed to streamline your business operations."
-    },
-    {
-        "id": 2,
-        "title": "Masonry Image Gallery",
-        "link": "https://masonry-image-gallery-psi.vercel.app/",
-        "image": "masonryimage.png",
-        "description": "Masonry Image is a dynamic and visually appealing image gallery designed to showcase your photos in a stylish and organized layout. Using the masonry grid system, our website arranges images of varying sizes seamlessly, creating a stunning visual experience.",
-        "techStack": [
-            "React JS",
-            "Tailwind CSS"
-        ],
-        "selected": true,
-        "year": "2023",
-        "madeAt": "Portfolio Project",
-        "shortDesc": "Masonry Image is a dynamic and visually appealing image gallery designed to showcase your photos in a stylish and organized layout."
-    },
-    {
-        "id": 3,
-        "title": "Minimalist E-Commerce",
-        "link": "https://minimalist-ecommerce-eky-v1.netlify.app/",
-        "image": "minimal-ecommerce.png",
-        "description": "Minimalist E-Commerce is a sleek and modern online store designed with a clean user interface and smooth shopping experience. Built with performance in mind, it features a well-structured product display, seamless navigation, and responsive design to ensure accessibility across all devices. This project showcases my skills in front-end development, UI/UX design, and integrating e-commerce functionalities.",
-        "techStack": [
-            "React TS",
-            "Tailwind CSS"
-        ],
-        "selected": true,
-        "year": "2025",
-        "madeAt": "Portfolio Project",
-        "shortDesc": "Minimalist E-Commerce is a sleek and modern online store designed with a clean user interface and smooth shopping experience."
-    },
-    {
-        "id": 4,
-        "title": "Landing Page PPPM Miftahul Huda",
-        "link": "https://new-pppm-miftahul-huda.pages.dev/",
-        "image": "website-ppm.png",
-        "description": "This website is a modern and responsive platform designed for PPPM Miftahul Huda, an educational institution dedicated to nurturing students with both academic and religious knowledge. Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience.",
-        "techStack": [
-            "React Vite",
-            "Tailwind CSS"
-        ],
-        "selected": true,
-        "year": "2025",
-        "madeAt": "Portfolio Project",
-        "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
-    },
-    {
-        "id": 5,
-        "title": "Simu Saham",
-        "link": "https://simu-saham.vercel.app/",
-        "image": "simu-saham.png",
-        "description": "Simu Saham is a web-based application designed to help users learn and simulate stock investing in an interactive and risk-free environment. These features make Simu Saham an ideal educational tool for beginners who want to understand how the stock market works before diving into real investments.",
-        "techStack": [
-            "React JS",
-            "Typescript",
-            "Tailwind CSS"
-        ],
-        "selected": true,
-        "year": "2025",
-        "madeAt": "Portfolio Project",
-        "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
-    },
-    {
-        "id": 6,
-        "title": "Coffee Shop Angular",
-        "link": "https://coffeeshop1-angular.netlify.app/",
-        "image": "cs-angular-4.png",
-        "description": "A responsive and modern landing page for a vintage-themed coffee shop, built with Angular. It features smooth navigation, mobile menu support, scroll animations, and sections like Home, About, Menu, Gallery, and Contact. Deployed on Netlify.",
-        "techStack": [
-            "Angular",
-            "Typescript",
-            "CSS"
-        ],
-        "selected": true,
-        "year": "2025",
-        "madeAt": "Portfolio Project",
-        "shortDesc": "A responsive and modern landing page for a vintage-themed coffee shop, built with Angular"
-    }
+  {
+    "id": 1,
+    "title": "Garuda Kasir",
+    "link": "https://garudakasir.co.id/",
+    "image": "garudakasir.jpeg",
+    "description": "Garuda Kasir is a comprehensive point-of-sale (POS) system designed to streamline your business operations. Our platform offers a range of features to manage sales, inventory, and customer relationships efficiently.",
+    "techStack": ["Next JS", "Prisma", "Tailwind CSS", "MySQL"],
+    "selected": true,
+    "year": "2021",
+    "madeAt": "Freelance Project",
+    "github": "",
+    "shortDesc": "Garuda Kasir is a comprehensive point-of-sale (POS) system designed to streamline your business operations."
+  },
+  {
+    "id": 2,
+    "title": "Masonry Image Gallery",
+    "link": "https://masonry-image-gallery-psi.vercel.app/",
+    "image": "masonryimage.png",
+    "description": "Masonry Image is a dynamic and visually appealing image gallery designed to showcase your photos in a stylish and organized layout. Using the masonry grid system, our website arranges images of varying sizes seamlessly, creating a stunning visual experience.",
+    "techStack": ["React JS", "Tailwind CSS"],
+    "selected": true,
+    "year": "2023",
+    "madeAt": "Portfolio Project",
+    "shortDesc": "Masonry Image is a dynamic and visually appealing image gallery designed to showcase your photos in a stylish and organized layout."
+  },
+  {
+    "id": 3,
+    "title": "Minimalist E-Commerce",
+    "link": "https://minimalist-ecommerce-eky-v1.netlify.app/",
+    "image": "minimal-ecommerce.png",
+    "description": "Minimalist E-Commerce is a sleek and modern online store designed with a clean user interface and smooth shopping experience. Built with performance in mind, it features a well-structured product display, seamless navigation, and responsive design to ensure accessibility across all devices. This project showcases my skills in front-end development, UI/UX design, and integrating e-commerce functionalities.",
+    "techStack": ["React TS", "Tailwind CSS"],
+    "selected": true,
+    "year": "2025",
+    "madeAt": "Portfolio Project",
+    "shortDesc": "Minimalist E-Commerce is a sleek and modern online store designed with a clean user interface and smooth shopping experience."
+  },
+  {
+    "id": 4,
+    "title": "Landing Page PPPM Miftahul Huda",
+    "link": "https://new-pppm-miftahul-huda.pages.dev/",
+    "image": "website-ppm.png",
+    "description": "This website is a modern and responsive platform designed for PPPM Miftahul Huda, an educational institution dedicated to nurturing students with both academic and religious knowledge. Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience.",
+    "techStack": ["React Vite", "Tailwind CSS"],
+    "selected": true,
+    "year": "2025",
+    "madeAt": "Portfolio Project",
+    "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
+  },
+  {
+    "id": 5,
+    "title": "Simu Saham",
+    "link": "https://simu-saham.vercel.app/",
+    "image": "simu-saham.png",
+    "description": "Simu Saham is a web-based application designed to help users learn and simulate stock investing in an interactive and risk-free environment. These features make Simu Saham an ideal educational tool for beginners who want to understand how the stock market works before diving into real investments.",
+    "techStack": ["React JS", "Typescript", "Tailwind CSS"],
+    "selected": true,
+    "year": "2025",
+    "madeAt": "Portfolio Project",
+    "shortDesc": "Built with Next.js for server-side rendering and optimized performance, the site ensures a seamless and fast user experience."
+  },
+  {
+    "id": 6,
+    "title": "Coffee Shop Angular",
+    "link": "https://coffeeshop1-angular.netlify.app/",
+    "image": "cs-angular-4.png",
+    "description": "A responsive and modern landing page for a vintage-themed coffee shop, built with Angular. It features smooth navigation, mobile menu support, scroll animations, and sections like Home, About, Menu, Gallery, and Contact. Deployed on Netlify.",
+    "techStack": ["Angular", "Typescript", "CSS"],
+    "selected": true,
+    "year": "2025",
+    "madeAt": "Portfolio Project",
+    "shortDesc": "A responsive and modern landing page for a vintage-themed coffee shop, built with Angular"
+  },
+  {
+    "id": 7,
+    "title": "Task Flow",
+    "link": "https://taskflow.rizkyrahmansalam.my.id/",
+    "image": "task-flow.png",
+    "description": "Real-time collaborative project management application built with React, TypeScript, Supabase, and TanStack Query. Features include drag-and-drop task management, role-based access control, and live collaboration.",
+    "techStack": ["React", "Typescript", "Tailwind CSS", "Supabase", "Tanstack Query", "Kanban"],
+    "selected": true,
+    "year": "2025",
+    "madeAt": "Portfolio Project",
+    "shortDesc": "A responsive and modern landing page for a vintage-themed coffee shop, built with Angular"
+  }
 ]
