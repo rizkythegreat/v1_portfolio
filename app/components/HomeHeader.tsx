@@ -2,33 +2,33 @@
 import React from 'react';
 import Link from 'next/link';
 import NavMenu from './NavMenu';
-import { useGSAP } from '@gsap/react';
+// import { useGSAP } from '@gsap/react';
 import { SplitText } from 'gsap/all';
 import { SocialMedia } from '@/utils/getData';
-import gsap from 'gsap';
+// import gsap from 'gsap';
 
 interface HomeHeaderProps {
   socialData: SocialMedia[];
 }
 
 const HomeHeader = ({ socialData }: HomeHeaderProps) => {
-  useGSAP(() => {
-    const nameSplit = new SplitText('.name', { type: 'chars, words' });
-    const titleSplit = new SplitText('.title', { type: 'chars, words' });
-    gsap.from(nameSplit.chars, {
-      yPercent: 100,
-      duration: 1,
-      ease: 'expo.out',
-      stagger: 0.05
-    });
-    gsap.from(titleSplit.chars, {
-      yPercent: 100,
-      duration: 1,
-      ease: 'expo.out',
-      stagger: 0.06,
-      delay: 1
-    });
-  }, []);
+  // useGSAP(() => {
+  //   const nameSplit = new SplitText('.name', { type: 'chars, words' });
+  //   const titleSplit = new SplitText('.title', { type: 'chars, words' });
+  //   gsap.from(nameSplit.chars, {
+  //     yPercent: 100,
+  //     duration: 1,
+  //     ease: 'expo.out',
+  //     stagger: 0.05
+  //   });
+  //   gsap.from(titleSplit.chars, {
+  //     yPercent: 100,
+  //     duration: 1,
+  //     ease: 'expo.out',
+  //     stagger: 0.06,
+  //     delay: 1
+  //   });
+  // }, []);
   return (
     <>
       <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
