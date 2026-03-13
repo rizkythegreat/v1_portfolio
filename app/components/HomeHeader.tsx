@@ -37,7 +37,7 @@ const HomeHeader = ({ socialData }: HomeHeaderProps) => {
             <Link href="/">Rizky Rahman Salam</Link>
           </h1>
           <h2 className="title mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-            Frontend Engineer
+            Full-Stack Developer
           </h2>
           <p className="mt-4 max-w-sm leading-normal">
             I specialize in bridging the idea to exceptional and accessible digital experiences.

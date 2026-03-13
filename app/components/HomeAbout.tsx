@@ -12,7 +12,7 @@ const HomeAbout = () => {
             </div>
             <div>
                 <p className="mb-4">
-                    As a passionate Frontend Web Developer, I specialize in
+                    As a passionate Full-Stack Web Developer, I specialize in
                     creating top-notch and user-friendly websites. With
                     extensive experience in crafting digital solutions for
                     various businesses, I bring a blend of creativity and
