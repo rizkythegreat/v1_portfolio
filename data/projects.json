@@ -88,12 +88,24 @@
     "id": 8,
     "title": "Recruit AI - AI-Powered Recruitment Assistant",
     "link": "https://ai-recruiter.rizkyrahmansalam.my.id/",
-    "image": "ai-recruiter.png",
+    "image": "recruit-ai-og.png",
     "description": "Advanced RAG backend (FastAPI + LlamaIndex) to help recruiters find the best candidates using semantic search and AI reranking",
     "techStack": ["Next JS", "Typescript", "Tailwind CSS", "Vector MongoDB", "LlamaIndex", "Retrieval Augmented Generation(RAG)", "Python", "FastAPI"],
     "selected": true,
     "year": "2026",
     "madeAt": "Portfolio Project",
     "shortDesc": "Advanced RAG backend (FastAPI + LlamaIndex) to help recruiters find the best candidates"
+  },
+  {
+    "id": 9,
+    "title": "Kasir AI - AI Powered Point of Sales (POS) System with Next.js",
+    "link": "https://github.com/rizkythegreat/kasir-ai",
+    "image": "kasir-ai-og.jpg",
+    "description": "AI Powered Point of Sales (POS) System with Next.js",
+    "techStack": ["Next JS", "Typescript", "Tailwind CSS", "Prisma ORM", "PostgreSQL", "LangChain", "Google Gemini", "shadcn/ui"],
+    "selected": true,
+    "year": "2026",
+    "madeAt": "Portfolio Project",
+    "shortDesc": "AI Powered Point of Sales (POS) System with Next.js"
   }
 ]
